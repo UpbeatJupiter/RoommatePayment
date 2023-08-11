@@ -1,0 +1,9 @@
+Beer,2
+Bread,1
+Oil,3
+Rum,2
+Milk,2 
+Tomatos,1 
+Mozzarella,4 
+Water,1
+AAA Battery,2
